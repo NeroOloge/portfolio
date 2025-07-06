@@ -58,7 +58,7 @@ function Portfolio() {
                 </button>
                 <button className="button shadow bg-primary text-primary-foreground
                   hover:bg-primary/90">
-                  <a href="https://mycontent.on-fleek.app" target="_blank">
+                  <a href="https://mycontent-frontend.vercel.app" target="_blank">
                     Live Demo
                   </a>
                 </button>
